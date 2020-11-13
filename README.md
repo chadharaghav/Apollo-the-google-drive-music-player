@@ -1,6 +1,7 @@
 # Apollo-google-drive-music-player
 This application lets the user play music files which are stored on their google drive as well as locally on the computer.
-<em> currently this application supports mp3, OGG, and WAV files. </em>
+<em> currently this application supports mp3, OGG, and WAV files. </em> <br>
+Apollo can also be used as a standalone music player.
 <br>
 <br>
 ## SET UP INSTRUCTIONS
