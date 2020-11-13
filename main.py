@@ -36,7 +36,7 @@ pygame.mixer.init()
 
 class myApp:
 	def __init__(self, master):
-		# ****************** VARIABLES AND LISTS AND OTHER MISC THINGIES **********************
+		# ****************** VARIABLES AND LISTS AND OTHER MISC THINGS **********************
 		self.libraryPlay = True
 		self.onlinePlay = False
 		self.queuePlay = False
