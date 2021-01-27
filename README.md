@@ -6,7 +6,7 @@ Apollo can also be used as a standalone music player.
 <br>
 ## SET UP INSTRUCTIONS
 ### Prerequisites
-Make sure you have python 2.7.x or above installed on your machine. <br>
+Make sure you have python 3 installed on your machine. <br>
 <br>
 ### Adding songs to google drive
 create a folder named 'apollo' in the root directory of your google drive. <br>
