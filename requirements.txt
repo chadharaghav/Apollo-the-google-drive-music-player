@@ -33,5 +33,5 @@ six==1.15.0
 stagger==1.0.0
 tbm-utils==2.6.0
 uritemplate==3.0.1
-urllib3==1.25.11
+urllib3==1.26.5
 wrapt==1.12.1
